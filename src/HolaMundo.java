@@ -4,5 +4,8 @@ public class HolaMundo {
         System.out.println("Hola mundo desde rama dev-montse");
         int suma = 20;
         System.out.println("Suma = " + suma);
+        suma++;
+        System.out.println("Suma = " + suma);
+
     }
 }
