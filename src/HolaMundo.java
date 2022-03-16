@@ -6,6 +6,8 @@ public class HolaMundo {
         System.out.println("Suma = " + suma);
         suma++;
         System.out.println("Suma = " + suma);
+        suma--;
+        System.out.println("Suma = " + suma);
 
     }
 }
